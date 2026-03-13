@@ -1,0 +1,31 @@
+.container{
+    background-color: rgb(99, 42, 42);
+    border-radius: 10px;
+    border: dashed #e0b1b1;
+    width: 700px;
+}
+
+body{
+    color: rgb(255, 255, 255);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(bg7.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    color: #fcfcb8;
+    font-weight: 700;
+}
+
+#subt,#fee,#total{
+    background-color:#f0f6da;
+    color: rgb(82, 71, 7);
+}.btn-danger{
+    color: rgb(255, 255, 255);
+    background-color: #efa7a7;
+}
+
+
+
